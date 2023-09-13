@@ -1,4 +1,4 @@
-package pro.vi.kokoshko.lessons.lessons3;
+package pro.vi.kokoshko.lessons.lesson3;
 
 public class Main {
     public static void main(String[] args) {

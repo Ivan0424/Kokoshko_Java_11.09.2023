@@ -1,8 +1,4 @@
-package pro.vi.kokoshko.lessons.lessons2;
-
-import java.net.SocketOption;
-
-import static javax.swing.text.html.HTML.Attribute.N;
+package pro.vi.kokoshko.lessons.lesson2;
 
 public class Main {
     public static void main(String[] args) {
