@@ -1,6 +1,6 @@
 package pro.vi.kokoshko.lessons.lesson5;
 
-public class Main {
+public class CSGO {
     public static void main(String[] args) {
         String CSGO = "CT";
         int q = 4;

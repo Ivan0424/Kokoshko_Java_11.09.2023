@@ -6,7 +6,7 @@ public class Dinasty {
         int q = 13;
         int w = 24;
         int e = 46;
-        int sum = 860 - (q + w + e);
+        int sum = 860 * (q + w + e);
         String name1 = "Min";
         int a = 9;
         int s = 35;
